@@ -1,0 +1,5 @@
+Laptop files include test.py which is the GUI and the teleop.py which is the real time keyboard control. 
+Package and CMakefiles were created and modified for functions to compile and work.
+
+Pi files include arduino code along with the libraries and Alec.cpp which is the main code on PI.
+Additionally, TLS server is created for command transfer between laptop and PI. (Secondary)
